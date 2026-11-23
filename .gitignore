@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.local
+
+# Temporary files
+*.log
+*.tmp
+
+# Backup files
+*.bak
